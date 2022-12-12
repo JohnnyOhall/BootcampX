@@ -12,5 +12,5 @@ CREATE TABLE assignments (
   content TEXT,
   day INTEGER,
   chapter INTEGER,
-  DURATION INTEGER
+  duration INTEGER
 );
